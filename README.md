@@ -1,17 +1,15 @@
 # Google Cybesecurity Professional Certificate
-> Module 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
-
-> Please make sure you include the original MIT license.
+https://www.coursera.org/google-certificates/cybersecurity-certificate
  
 ## Professional Statements
-I am Ketmanto Wangsa. I am an Application Support Engineer at a Sydney-based CX consultancy. I provide IT technical support (Azure, Intune, Exchange, Entra ID), database extraction (SQL), application and cyber security support. During a remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. In addition, I completed the IBM Engagement Specialist program to enhance my interpersonal skills. Furthermore, I completed nine cybersecurity virtual programs with ANZ, Datacom, Mastercard, AIG, Tata Consultancy, Telstra, and more. 
+I am a passionate and driven cybersecurity enthusiast with a strong interest in protecting digital assets through advanced cloud security practices and comprehensive GRC frameworks. With a growing foundation in threat detection, risk assessment, and regulatory compliance, I am committed to helping organizations build secure, resilient, and compliant environments across their digital infrastructure.
 
-Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
+My focus lies in understanding the evolving threat landscape, especially within cloud ecosystems, and applying industry best practices to mitigate risks. I take a proactive approach to security—whether it’s implementing Zero Trust principles, aligning with standards like ISO 27001 and NIST, or supporting audit readiness and policy enforcement. I thrive in collaborative environments where continuous learning and innovation are key, and I am eager to contribute to projects that enhance security posture while ensuring regulatory and organizational compliance.
 
-As of 2025, I passed `SC-900` certification. I am preparing to take `AZ-900`, `AZ-305`, `CompTIA A+`, `CompTIA Network+`, `CompTIA Security+`, and `Linux Foundation Certified Associate (LFCA)` certifications.
+As I advance my skills and certifications, I aim to bridge technical and strategic security disciplines to support organizations in achieving both operational effectiveness and governance excellence.
 
-## Portfolio
-> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
+## Tasks Completed
+> https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 > Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
