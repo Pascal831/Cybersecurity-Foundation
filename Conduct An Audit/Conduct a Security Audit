@@ -59,3 +59,59 @@ Controls Assessment Checklist
 Does Botium Toys currenly have this control in place?
 
 *SOLUTION*
+Based on the case study for Botium Toys, here is a comprehensive Controls and Compliance Checklist aligned with the NIST Cybersecurity Framework (CSF) and best practices in Governance, Risk, and Compliance (GRC):
+
+✅ Controls and Compliance Checklist for Botium Toys (Internal Audit)
+📌 1. IDENTIFY (Asset Management, Risk Management, Governance)
+Control/Compliance Area	Type	Control Type	Status	Recommendation
+Asset inventory (hardware and software)	Administrative	Preventative	❌ Not in place	Create and maintain an up-to-date asset inventory using asset management software.
+Asset classification (by sensitivity/business impact)	Administrative	Preventative	❌ Not in place	Classify assets to prioritize protection based on criticality and sensitivity.
+Risk assessment process	Administrative	Detective	✅ Initiated	Formalize recurring risk assessments and document findings.
+Regulatory compliance awareness (PCI DSS, GDPR, etc.)	Administrative	Preventative/Deterrent	❌ Incomplete	Map applicable laws to business operations and ensure awareness training.
+Roles and responsibilities for security & compliance	Administrative	Preventative	❌ Not defined	Define security roles and assign accountability across departments.
+Policy and procedure documentation (IT/security)	Administrative	Preventative	❌ Incomplete	Develop and publish IT and cybersecurity policies (e.g., Acceptable Use Policy).
+
+🔐 2. PROTECT (Access Control, Awareness, Data Security)
+Control/Compliance Area	Type	Control Type	Status	Recommendation
+User access control (least privilege, account reviews)	Technical	Preventative	❌ Not in place	Implement Role-Based Access Control (RBAC) and review access quarterly.
+Multi-Factor Authentication (MFA)	Technical	Preventative	❌ Not enforced	Enforce MFA for remote access and sensitive systems.
+Endpoint protection (AV, EDR, patch management)	Technical	Preventative/Corrective	❌ Incomplete	Deploy AV/EDR software and automate patching across all devices.
+Data encryption (at rest and in transit)	Technical	Preventative	❌ Not verified	Ensure encryption is applied to payment systems and customer data.
+Security awareness training	Administrative	Deterrent	❌ Not conducted	Launch recurring staff security and compliance training programs.
+Physical security (locks, surveillance)	Physical/Operational	Preventative/Deterrent	✅ Present (limited)	Enhance access controls and regularly test surveillance systems.
+
+🔍 3. DETECT (Monitoring, Logging, Anomalies)
+Control/Compliance Area	Type	Control Type	Status	Recommendation
+Security event logging	Technical	Detective	❌ Not in place	Implement centralized logging (e.g., SIEM) to monitor system events.
+Intrusion detection/prevention system (IDS/IPS)	Technical	Detective	❌ Missing	Install IDS/IPS to monitor suspicious activity on the network.
+Audit trails for key systems	Technical	Detective	❌ Not enabled	Enable audit trails for ecommerce and financial systems.
+
+⚠️ 4. RESPOND (Incident Handling)
+Control/Compliance Area	Type	Control Type	Status	Recommendation
+Incident response plan	Administrative	Corrective	❌ Not in place	Develop and test a formal incident response plan.
+Roles/responsibilities during a security event	Administrative	Preventative	❌ Not defined	Assign an incident response team and train them accordingly.
+Communication plan (internal/external)	Administrative	Corrective	❌ Not documented	Create a plan for notifying stakeholders and authorities post-incident.
+
+♻️ 5. RECOVER (Resilience, Business Continuity)
+Control/Compliance Area	Type	Control Type	Status	Recommendation
+Business continuity plan (BCP)	Administrative	Corrective	❌ Missing	Create a BCP focused on critical systems, especially ecommerce and payments.
+Disaster recovery (DR) procedures	Administrative/Technical	Corrective	❌ Not established	Implement regular DR testing and backups for key systems.
+Data backup and recovery	Technical	Corrective	✅ Partially implemented	Verify backups are encrypted, tested, and follow retention policies.
+
+⚠️ Compliance Concerns
+PCI DSS: Botium Toys accepts online payments but may not meet PCI DSS requirements due to lack of access control, encryption, and monitoring.
+
+GDPR: Since Botium operates in the E.U., it must ensure proper data collection, consent management, cross-border transfer compliance, and breach notification procedures.
+
+U.S. Regulations: Lack of employee training, written policies, and endpoint security may result in failure to meet U.S. data protection standards (e.g., FTC guidelines).
+
+✅ Summary and Next Steps
+Top 3 Priorities:
+Create an asset inventory and classification system.
+
+Implement access controls, encryption, and endpoint protection.
+
+Develop incident response and business continuity plans.
+
+Final Risk Score (Post-Audit):
+📉 Target: Reduce from 8 to 4 through phased implementation of controls and compliance measures.
