@@ -10,7 +10,7 @@ These exercises were performed using the Linux Bash shell to manage files, direc
 
 | Topic | Description |
 |-------|-------------|
-| [File Permissions](linux/linux_file_permissions.md) | Understanding and modifying file/directory access rights |
+| [File Permissions](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/3.Linux%20%26%20SQL%20/3.1%20Linux%20File%20Permissions.md) | Understanding and modifying file/directory access rights |
 | [File Management](linux/linux_file_management.md) | Creating, moving, deleting, and searching files |
 | [User Management](linux/linux_user_management.md) | Adding users, managing groups, and assigning file ownership |
 
