@@ -22,7 +22,7 @@ Using MariaDB, these SQL notes demonstrate filtering data and joining tables for
 
 | Topic | Description |
 |-------|-------------|
-| [SQL Filtering](sql/sql_filtering.md) | Use of `WHERE`, `AND`, `OR`, `LIKE`, `NOT` for data filtering |
+| [SQL Filtering](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/3.Linux%20%26%20SQL%20/3.4%20SQL%20Filters.md) | Use of `WHERE`, `AND`, `OR`, `LIKE`, `NOT` for data filtering |
 | [SQL JOINs](sql/sql_join.md) | Inner, Left, and Right Joins for combining relational data |
 
 ---
