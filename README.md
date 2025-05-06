@@ -49,7 +49,7 @@ This training has prepared me for the following entry-level roles:
 | [5. Detection & Response](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/5.%20Detection%20%26%20Response) | `Incident Lifecycle`, `Log Review`, `Security Journaling` |
 | [6. Tcpdump & Wireshark](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/6.%20Tcpdump%20%26%20Wireshark) | `Network Traffic Analysis`, `Packet Sniffing`, `Protocol Decoding` |
 | [7. IDS & SIEM](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/7.%20IDS%20%26%20SIEM) | `Suricata`, `Chronicle`, `Splunk`, `Log Correlation`, `Alerting` |
-| [8. Automation with Python](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) | `Python`, `Scripting`, `PEP 8`, `Automation` |
+| [8. Automation with Python](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/8.%20Automation%20with%20Python) | `Python`, `Scripting`, `PEP 8`, `Automation` |
 
 ---
 
