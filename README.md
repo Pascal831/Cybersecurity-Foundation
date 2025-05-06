@@ -44,12 +44,12 @@ This training has prepared me for the following entry-level roles:
 |--------------|------------|
 | [1. Conduct An Audit](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/1.%20Conduct%20An%20Audit) | `INFOSEC`, `NIST RMF`, `Security Audits`, `Incident Response`, `CISSP`, `CIA Triad` |
 | [2. Network Security](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/2.%20Network%20Security) | `TCP/IP`, `Network Architecture`, `Cloud Networking`, `Hardening Techniques` |
-| [3 - Linux & SQL]() | `Command Line`, `Linux`, `SQL`, `Bash Scripting` |
-| [4 - Assets, Threats, & Vulnerabilities](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) | `Threat Modeling`, `Asset Management`, `Cryptography`, `Vulnerability Scanning` |
-| [5 - Detection & Response](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20%26%20Response) | `Incident Lifecycle`, `Log Review`, `Security Journaling` |
-| [6 - Tcpdump & Wireshark](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) | `Network Traffic Analysis`, `Packet Sniffing`, `Protocol Decoding` |
-| [7 - IDS & SIEM](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) | `Suricata`, `Chronicle`, `Splunk`, `Log Correlation`, `Alerting` |
-| [8 - Automation with Python](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) | `Python`, `Scripting`, `PEP 8`, `Automation` |
+| [3. Linux & SQL](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/3.Linux%20%26%20SQL%20) | `Command Line`, `Linux`, `SQL`, `Bash Scripting` |
+| [4. Assets, Threats, & Vulnerabilities](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) | `Threat Modeling`, `Asset Management`, `Cryptography`, `Vulnerability Scanning` |
+| [5. Detection & Response](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20%26%20Response) | `Incident Lifecycle`, `Log Review`, `Security Journaling` |
+| [6. Tcpdump & Wireshark](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) | `Network Traffic Analysis`, `Packet Sniffing`, `Protocol Decoding` |
+| [7. IDS & SIEM](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) | `Suricata`, `Chronicle`, `Splunk`, `Log Correlation`, `Alerting` |
+| [8. Automation with Python](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) | `Python`, `Scripting`, `PEP 8`, `Automation` |
 
 ---
 
@@ -62,10 +62,6 @@ This training has prepared me for the following entry-level roles:
 - **Standards & Frameworks**: NIST CSF, ISO 27001, Zero Trust Architecture
 
 ---
-
-## 📝 Additional Notes
-
-Many portfolio documents are provided in PDF format for enhanced formatting and include rich visuals, diagrams, and screenshots to improve readability and clarity.
 
 🔗 GitHub Repository: [Cybersecurity Portfolio](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)
 
