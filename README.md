@@ -42,8 +42,8 @@ This training has prepared me for the following entry-level roles:
 
 | Project Title | Key Skills |
 |--------------|------------|
-| [1 - Conduct a Security Audit](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/1%20-%20Conduct%20an%20Audit) | `INFOSEC`, `NIST RMF`, `Security Audits`, `Incident Response`, `CISSP`, `CIA Triad` |
-| [2 - Network Security](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/2%20-%20Network%20Security) | `TCP/IP`, `Network Architecture`, `Cloud Networking`, `Hardening Techniques` |
+| [1. Conduct An Audit](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/1.%20Conduct%20An%20Audit) | `INFOSEC`, `NIST RMF`, `Security Audits`, `Incident Response`, `CISSP`, `CIA Triad` |
+| [2 - Network Security](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/1.Network%20An%20Audit) | `TCP/IP`, `Network Architecture`, `Cloud Networking`, `Hardening Techniques` |
 | [3 - Linux & SQL](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/3%20-%20Linux%20%26%20SQL) | `Command Line`, `Linux`, `SQL`, `Bash Scripting` |
 | [4 - Assets, Threats, & Vulnerabilities](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) | `Threat Modeling`, `Asset Management`, `Cryptography`, `Vulnerability Scanning` |
 | [5 - Detection & Response](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20%26%20Response) | `Incident Lifecycle`, `Log Review`, `Security Journaling` |
