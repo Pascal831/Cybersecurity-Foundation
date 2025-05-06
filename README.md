@@ -63,5 +63,5 @@ This training has prepared me for the following entry-level roles:
 
 ---
 
-🔗 GitHub Repository: [Cybersecurity Portfolio](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)
+🔗 GitHub Repository: [Cybersecurity Portfolio](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main)
 
