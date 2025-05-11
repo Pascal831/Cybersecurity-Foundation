@@ -42,7 +42,7 @@ This training has prepared me for the following entry-level roles:
 
 | Project Title | Key Skills |
 |--------------|------------|
-| [1. Conduct An Audit](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/1.%20Conduct%20An%20Audit) | `INFOSEC`, `NIST RMF`, `Security Audits`, `Incident Response`, `CISSP`, `CIA Triad` |
+| [1. Conduct An Audit](https://github.com/Pascal831/Cybersecurity-Foundation/blob/main/1.%20Conduct%20An%20Audit/1.1%20Conduct%20a%20security%20audit.md) | `INFOSEC`, `NIST RMF`, `Security Audits`, `Incident Response`, `CISSP`, `CIA Triad` |
 | [2. Network Security](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/2.%20Network%20Security) | `TCP/IP`, `Network Architecture`, `Cloud Networking`, `Hardening Techniques` |
 | [3. Linux & SQL](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/3.Linux%20%26%20SQL%20) | `Command Line`, `Linux`, `SQL`, `Bash Scripting` |
 | [4. Assets, Threats, & Vulnerabilities](https://github.com/Pascal831/Cybersecurity-Foundation/tree/main/4.%20Assets%2C%20Threats%20%26%20Vulnerabilities) | `Threat Modeling`, `Asset Management`, `Cryptography`, `Vulnerability Scanning` |
